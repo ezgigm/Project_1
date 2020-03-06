@@ -1,5 +1,5 @@
 
-# Project Name
+# Analysis of Movies
 
 This project is a part of the [Flatiron School Data Science Immersive Bootcamp](https://flatironschool.com/career-courses/data-science-bootcamp) Module 1. 
 #### -- Project Status: [Completed]
