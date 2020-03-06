@@ -27,7 +27,7 @@ In this project, we aimed to find good business solutions to Microsoft company w
 
 ## Project Description
 
-First, we dive into asking questions for best investment.
+First, we dive into asking questions for decision making regarding opening a new movie studio.
 
 1. Considering the best vote average values, which genres are good to invest, and which languages also?
 2. Considering the best profit, which genres are good to invest and also what is the percantage of top 5 genres?
@@ -42,19 +42,20 @@ Then, we merged them and clean them for useful format. And, plot our results for
 
 ## Needs of this project
 
-- data exploration/statistics
-- data processing/cleaning
-- writeup/reporting
+- Data Extraction through Web Scrapping and API methodology
+- Data processing/cleaning using python
+- Plotting statistical data to draw insights
+- Documentation of the whole process
 
 ## Getting Started
 
 1. Clone this repo https://github.com/ezgigm/Project_1 (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/ezgigm/Project_1/tree/master/Raw_Data) within this repo.   
 3. Data processing/transformation scripts are being kept [here](https://github.com/ezgigm/Project_1)
-4. Questions to be answered about the data.
+4. Answers of questions can be found [here](https://github.com/ezgigm/Project_1).
 
 
-## Featured Notebooks/Analysis/Deliverables
+## STEPS AND SOLUTIONS TO THE PROJECT
 *  UPDATED DATA SET : https://github.com/ezgigm/Project_1/blob/master/last_all_data.csv
 *  STEP 1 : https://github.com/ezgigm/Project_1/blob/master/STEP1_Grabbing_TMBD_best_20_highest_revenue_data.ipynb
 *  STEP 2 : https://github.com/ezgigm/Project_1/blob/master/STEP2_getting_budget_with_soup.ipynb
