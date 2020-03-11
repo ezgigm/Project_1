@@ -8,12 +8,6 @@ This project is a part of the [Flatiron School Data Science Immersive Bootcamp](
 
 In this project, we aimed to find good business solutions to Microsoft company which is creating a new movie studio. We tried to find best genres to invest and best language films according to ratings. Then, we want to discuss these genres accoring to best profit. We aimed to find best release date of films also, and try to find whether foreign investments are needed. To find answers to this questions, we grabbed data from different sources.
 
-### Partner
-* Ezgi Gumusbas 
-* Contact: Slack, Ezgi Gumusbas
-
-* Srikanth Gungi
-* Contact: Slack, Srikant Gungi
 
 ### Methods Used
 * Data Grabbing via API keys
@@ -76,5 +70,5 @@ Then, we merged them and clean them for useful format. And, plot our results for
 |[Srikanth Gungi](https://github.com/srikanthgungi) |@srikanthgungi    |
 
 ## Contact 
-* Our slack channel is `#houston-ds-021720`
+
 * Feel free to contact team leads with any questions or if you are interested in contributing!
